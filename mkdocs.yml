@@ -1,0 +1,90 @@
+site_name: Sandbox
+nav:
+  - Home: ./index.md
+  - Ondersteuning door Aedes:
+    - Inleiding: ./ondersteuning/index.md
+    - Ondersteuning: ./ondersteuning/01_contact_en_webinars.md
+    - Known issues en doorontwikkeling:  ./ondersteuning/02_issues_en_doorontwikkeling.md
+    - Team DIV-IT: ./ondersteuning/03_team.md
+    - Gebruik van deze wensite: ./ondersteuning/04_gebruik_website.md
+    - Veranderlingslogboek: ./ondersteuning/05_veranderingslogboek.md
+    - DIV-it versiebeheer: ./ondersteuning/06_versiebeheer.md
+
+  - DIV-it, waarom is dit voor mij?: ./test_index.md
+  - Routekaart: 
+    - Inleiding: ./routekaart/index.md
+    - Voorbereiding:
+        - Inleiding: ./routekaart/01_voorbereiding/index.md
+        - Implementatieroute: ./routekaart/01_voorbereiding/01_implementatie_route.md
+    - Het nieuwe proces toepassen: 
+        - Inleiding: ./routekaart/03_het_nieuwe_proces/index.md
+        - Delen van BSN woningzoekende bij nieuwe inschrijving: ./routekaart/03_het_nieuwe_proces/woningzoekende_nieuwe_inschrijving.md
+        - Delen van BSN woningzoekende bij bestaande inschrijving: routekaart/03_het_nieuwe_proces/woningzoekende_betaande_inschrijving.md
+        - Delen van BSN woningzoekende bij toewijzing: routekaart/03_het_nieuwe_proces/woningzoekende_toewijzing.md
+        - Delen van BSN medebewoner bij toewijzing: routekaart/03_het_nieuwe_proces/medebewoner_toewijzing.md
+        - Uitvalsituaties: routekaart/03_het_nieuwe_proces/uitvalsituaties.md
+    - Toepassen:
+      - Inleiding: ./routekaart/02_toepassen/index.md
+      - Het nieuwe proces: ./routekaart/02_toepassen/nieuwe_proces/index.md
+
+site_url: https://sandbox.example
+theme:
+  language: nl
+  name: material
+  logo: assets/logo.jpg
+  favicon: assets/favicon.ico
+  palette: 
+     # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+  features:
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs # top menu
+    - navigation.tabs.sticky # top menu stays visible when scrolling
+    #- navigation.sections #no sections with hierarcy in the menu
+
+
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format 
+
+extra:
+  generator: false
+  version:
+    provider: mike
+  social:
+    - icon: material/youtube
+      link: https://www.youtube.com/aedesnet
+      name: Aedes op youtube
+    - icon: fontawesome/brands/linkedin
+      link: https://nl.linkedin.com/company/aedes-vereniging-van-woningcorporaties
+      name: Aedes op LinkedIn
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/Aedesnet
+      name: Aedes op X
+copyright: Copyright &copy; 2025 Aedes Datastandaarden
+

@@ -1,0 +1,3 @@
+Het proces voor het delen van de inkomensgegevens zal met de implementatie van de digitale inkomensverklaring wijzigen. Op deze pagina’s wordt de nieuwe digitale procedure omschreven.
+
+In DIV-it definiëren we vier processen. De processen zijn functioneel en op hoofdlijnen beschreven. Daarbij wordt ingegaan op de samenhang tussen de woningzoekende of medebewoner, het woonruimteverdeelsysteem, het verhuursysteem en de systemen van de overheid.

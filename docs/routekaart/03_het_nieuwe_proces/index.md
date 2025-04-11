@@ -1,0 +1,8 @@
+Nu je goed voorbereid bent, kun je aan de slag met het toepassen van de digitale inkomensverklaring. Dit deel van de implementatie bestaat uit 4 onderdelen waar je gelijktijdig mee aan de slag kunt gaan.
+
+1. Het nieuwe proces — Het proces voor het delen van de inkomensgegevens zal met de implementatie van de digitale inkomensverklaring wijzigen. Op deze pagina’s wordt de nieuwe digitale procedure omschreven.
+2. Afspraken met de accountant — Met behulp van de digitale inkomensverklaring krijgen woonruimteverdelers en corporaties de beschikking over gevalideerde identiteits- en inkomensgegevens. Dit wijzigt ook de manier waarop de accountant de authenticiteit en integriteit van de inkomensverklaring moet controleren.
+3. Informatiebeveiliging en privacy — De gegevens die de woningzoekende of medebewoner deelt met de woonruimteverdeler of corporatie via de digitale procedure, zijn persoonsgegevens die iets over de individuele woningzoekende of medebewoner zeggen. Deze moeten goed beschermd worden.
+4. Voorbereiden aanmelding — Om gebruik te kunnen maken van de digitale inkomensverklaring moet de woonruimteverdeler en/of corporatie zich aanmelden bij het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK), bij Logius en bij de Rijksdienst voor Identiteitsgegevens (RvIG).
+
+Wanneer je met deze stappen aan de slag gaat en dus de voorbereiding (deel 1), vul dan dit formulier in. Je helpt ons hier ontzettend mee, dan kunnen we namelijk goed inschatten welke ondersteuning nodig is.
