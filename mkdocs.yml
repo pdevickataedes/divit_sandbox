@@ -10,7 +10,7 @@ nav:
     - Veranderlingslogboek: ./ondersteuning/05_veranderingslogboek.md
     - DIV-it versiebeheer: ./ondersteuning/06_versiebeheer.md
 
-  - DIV-it, waarom is dit voor mij?: ./test_index.md
+  - DIV-it, waarom is dit voor mij?: ./waarom_voor_mij/index.md
   - Routekaart: 
     - Inleiding: ./routekaart/index.md
     - Voorbereiding:
