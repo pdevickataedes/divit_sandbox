@@ -95,6 +95,39 @@ Een corporatie of woonruimteverdeler voldoet aan DIV-it 1.2.2 als:
 Corporaties, woonruimteverdelers en samenwerkingsverbanden kunnen implementatie van een deel van de standaard uitbesteden aan andere partijen (zoals softwareleveranciers) als zij dat doen conform de standaard.
 
 
+### Wanneer is DIV-it van toepassing?
+De DIV-it standaard is ontwikkeld voor een aantal situaties waarin woonruimteverdelers of corporaties de digitale procedure aan mogen bieden.
+
+Als je als woonruimteverdeler of corporatie op eigen verzoek bent aangewezen als gebruiker door het ministerie van BZK, dan moet je de digitale procedure aan iedereen die aan de onderstaande criteria voldoet aanbieden. En je mag het ook alleen aan degenen aanbieden die aan de criteria voldoen.
+
+* **Sociale verhuur:** de digitale procedure mag alleen worden gebruikt voor de uitvoering van de inkomenstoets die is voorgeschreven in de Woningwet en daarmee alleen voor woningzoekenden die sociale huurwoningen willen huren.
+
+* **Uitgezonderde groepen:** het inkomensgegeven mag alleen digitaal gedeeld worden door woningzoekenden die niet in een van de uitgezonderde groepen voor de inkomenstoets vallen en die niet in een van de groepen vallen die uitgezonderd zijn op de verplichte toetsing aan de hand van belastingbescheiden. Zie voor deze groepen: [Bijlage 4 Besluit toegelaten instellingen volkshuisvesting 2015.][21]
+
+Daarnaast stelt de wet als voorwaarde dat **instemming** wordt verkregen: de woonruimteverdeler of corporatie moet de woningzoekende en medebewoners verzoeken om in te stemmen met de digitale procedure. Daarbij moet de woonruimteverdeler of corporatie informatie over de procedure en de daarbij behorende gegevensverwerkingen delen met de woningzoekende zodat deze een afgewogen beslissing kan nemen of hij wel of niet zijn gegevens digitaal wil delen. Als de woningzoekende instemt, is de woonruimteverdeler of corporatie verplicht om de digitale procedure toe te passen.
+
+De DIV-it-standaard is ontwikkeld voor de volgende situaties waarin gegevens worden gedeeld:
+
+* Het BSN wordt eenmalig opgevraagd nadat de woningzoekende instemt met de digitale procedure (bij inschrijving of op een later moment, ten behoeve van het verrijken van de inschrijving). Op dat moment vindt ook de validatie van de geslachtsnaam en geboortedatum plaats.
+
+* De combinatie BSN en inkomensgegeven van de woningzoekende en toekomstige medebewoners worden eenmalig opgevraagd nadat de woningzoekende een woning toegewezen heeft gekregen.
+
+
+### Kosten
+Er zijn kosten van toepassing op de implementatie en het gebruik van de digitale procedure. Dit zijn kosten voor het gebruik van MijnOverheid en kosten die de softwareleverancier of dienstenleverancier doorbelast.
+
+Aan het gebruik van de voorziening van MijnOverheid zijn kosten verbonden. Meer informatie over deze kosten wordt gedeeld op de pagina [kosten en randvoorwaarden gebruik voorzieningen][22] van het ministerie van BZK. Waarbij het volgende bedoeld wordt met:
+
+* Totaal van aantal DigiD inloggen voor deze toepassing in de sector = elke geslaagde inlogpoging in DigiD door de woningzoekende ongeacht of er vervolgens gegevens worden gedeeld.  
+
+* Totaal aantal geslaagde gegevensdelingen = aantal geslaagde requests, dus daadwerkelijke gegevensdeling.  
+
+Daarnaast kan de softwareleverancier of dienstenleverancier kosten doorberekenen die hij voor de woonruimteverdeler of corporatie maakt voor de implementatie of het gebruik van de digitale inkomensverklaring.
+
+Er zijn geen kosten verbonden aan het gebruik van de Beheervoorziening BSN.
+
+
+
 
   [1]: https://pub.aedesdatastandaarden.nl/DIV-it/standaard/div-it-versiebeheer
   [2]: https://wetten.overheid.nl/jci1.3:c:BWBR0005181&hoofdstuk=IV&afdeling=3¶graaf=2&artikel=46&z=2024-01-01&g=2024-01-01
@@ -115,3 +148,5 @@ Corporaties, woonruimteverdelers en samenwerkingsverbanden kunnen implementatie 
   [17]: https://www.volkshuisvestingnederland.nl/onderwerpen/digitaal-delen-van-inkomensgegevens/documenten/publicaties/2024/01/12/formulier-logius-dvmg
   [18]: https://www.volkshuisvestingnederland.nl/onderwerpen/digitaal-delen-van-inkomensgegevens/documenten/publicaties/2024/01/12/voorwaarden-voor-gebruik-versie-1.1
   [20]: ../routekaart/03_het_nieuwe_proces/index.md
+  [21]: https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=4&z=2024-01-01&g=2024-01-01
+  [22]: https://www.volkshuisvestingnederland.nl/onderwerpen/digitaal-delen-van-inkomensgegevens/aanvraagprocedure-digitaal-delen-inkomensgegevens-voor-woningcorporaties-en-woonruimteverdelers
