@@ -124,7 +124,7 @@ Aan het gebruik van de voorziening van MijnOverheid zijn kosten verbonden. Meer 
 
 Daarnaast kan de softwareleverancier of dienstenleverancier kosten doorberekenen die hij voor de woonruimteverdeler of corporatie maakt voor de implementatie of het gebruik van de digitale inkomensverklaring.
 
-Er zijn geen kosten verbonden aan het gebruik van de Beheervoorziening BSN.
+Er zijn geen kosten verbonden aan het gebruik van de Beheervoorziening BSN. 
 
 
 

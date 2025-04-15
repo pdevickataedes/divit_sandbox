@@ -65,6 +65,16 @@ LIVE["Live gaan <BR/>, gebruik en beheer"]
 
 CP4-->LIVE
 
+Leverancier:::Blue
+LOGIUS:::Blue
+RVIG:::Blue
+Bepalen:::Red
+IP:::Red
+DPIA:::Red
+classDef Blue stroke-width:1px, stroke-dasharray:none, stroke:#374D7C, fill:#E2EBFF, color:#374D7C
+classDef Red stroke:#b50707, fill:#D50000, color:#FFFFFF
+
+
 ```
 
 
